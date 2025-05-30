@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "488149400173",
+    "project_id": "schoolbusapp-ccb3f",
+    "storage_bucket": "schoolbusapp-ccb3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488149400173:android:79b1e7feac0c878c281d64",
+        "android_client_info": {
+          "package_name": "com.example.school_bus_app_fresh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSXXcFpN-zfMF0HR70Phay0VN4RcsA6-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488149400173:android:413f88a6055e83c2281d64",
+        "android_client_info": {
+          "package_name": "com.example.school_bus_app_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSXXcFpN-zfMF0HR70Phay0VN4RcsA6-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488149400173:android:857e1bb0430ba391281d64",
+        "android_client_info": {
+          "package_name": "com.example.tt1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSXXcFpN-zfMF0HR70Phay0VN4RcsA6-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
